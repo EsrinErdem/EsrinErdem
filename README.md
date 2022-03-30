@@ -1,5 +1,7 @@
-Titulaire d'une licence en Génie Electrique obtenu en 2004 et ayant travaillé dans le secteur pendant 1 an, 
-je suis venue en France pour poursuivre mes études.  Cependant, pour des raisons familiales,
-j'ai abandonné le master Micro et Nano Électronique.  Aujourd'hui, maman de 3 enfants, je suis la Formation
-Data Science organisée par VBO(Data Science School) avec beaucoup de plaisir et d'enthousiasme pour me réintégrer dans la vie active.  
-Mon objectif est d'évoluer dans ce domaine et d'y travailler.
+Data Scientiste, Data Analyste et Machine Learning axé sur les
+résultats et doté d'un sens analytique. Possède la capacité de mettre
+en place la fonction de Data Science et Data Analyste pour les
+organisations traitant du Data. Maîtrise de la conception
+d'algorithmes en Machine Learning, NLP utilisant Python (langage de
+programmation) et statistiques
+
